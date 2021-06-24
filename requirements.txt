@@ -2,7 +2,6 @@ streamlit
 pandas
 tensorflow
 numpy
-base64
 json
 cv2
 chain
