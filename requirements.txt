@@ -4,5 +4,4 @@ tensorflow
 numpy
 chain
 opencv-python-headless
-sqlite3
-hashlib
+
